@@ -11,6 +11,7 @@ public class LangStuff {
 			System.out.printf("a: %s / b: %s%n", a, b);
 		}
 		
+		System.out.println("Test");
 		
 	}
 
